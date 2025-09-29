@@ -1,1 +1,1 @@
-# stoktakipapp
+Python ile bir masaüstü uygulama geliştirdim. Bu uygulama boyaların takibi, stok yönetimi, tedarikçi bilgisi ve 100 kilonun altına düşen boyaların kritiğini uyarı veren fonksiyonları içermektedir. Uygulamada veriler yerel olarak işlenir, herhangi bir veri tabanına bağlı değildir. İnternet gerektirmez, kolayca kurulur.
